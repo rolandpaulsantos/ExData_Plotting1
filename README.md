@@ -1,3 +1,13 @@
+##R Package dependencies
+The following packages must be installed before running the plot scripts.
+
+* R.utils
+* data.table
+* dplyr
+
+##Instructions
+Download the plot .R scripts into your R working directory.  Source the scripts.  The source data will be downloaded into a new directory named "data".  The .png outputs will be created into a new directory named "plots".
+
 ## Introduction
 
 This assignment uses data from
